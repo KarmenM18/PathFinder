@@ -1,8 +1,5 @@
 ## PathFinder: Maze Solving Algorithm in Java
 
-![maze_github1](https://github.com/user-attachments/assets/4e2e4bbc-2f25-40b0-9f19-6130cb69bf47)
-![maze2_github](https://github.com/user-attachments/assets/6efec8e2-df5d-4eb7-b980-6aa9cb02205a)
-
 <img width="380" height = "380" alt="maze1" src="https://github.com/user-attachments/assets/4e2e4bbc-2f25-40b0-9f19-6130cb69bf47">
 <img width="380" height = "380" alt="maze1" src="https://github.com/user-attachments/assets/6efec8e2-df5d-4eb7-b980-6aa9cb02205a">
 
