@@ -6,3 +6,18 @@
 ### Overview
 
 This project implements a Java program to solve mazes using graph theory. The maze is represented as an undirected graph, where nodes correspond to rooms and edges represent corridors or doors that may require a specific number of coins to open. The goal is to find a path from the entrance to the exit, considering the coin constraints.
+
+### Input File Format
+The maze is defined in a text file with the following format:
+
+S: Scale factor for display.
+A: Width of the maze.
+L: Length of the maze.
+k: Number of coins available.
+Maze Grid: Each line represents a row in the maze grid. Symbols include:
+'s': Entrance
+'x': Exit
+'o': Room
+'c': Corridor
+'w': Wall
+'0'-'9': Door requiring a specific number of coins
