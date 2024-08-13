@@ -10,14 +10,14 @@ This project implements a Java program to solve mazes using graph theory. The ma
 ### Input File Format
 The maze is defined in a text file with the following format:
 
-S: Scale factor for display.
-A: Width of the maze.
-L: Length of the maze.
-k: Number of coins available.
-Maze Grid: Each line represents a row in the maze grid. Symbols include:
-'s': Entrance
-'x': Exit
-'o': Room
-'c': Corridor
-'w': Wall
-'0'-'9': Door requiring a specific number of coins
+1. S: Scale factor for display.
+2. A: Width of the maze.
+3. L: Length of the maze.
+4. k: Number of coins available.
+5. Maze Grid: Each line represents a row in the maze grid. Symbols include:
+* 's': Entrance
+* 'x': Exit
+* 'o': Room
+* 'c': Corridor
+* 'w': Wall
+* '0'-'9': Door requiring a specific number of coins
